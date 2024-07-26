@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/interview question 1/interview question 1.iml" filepath="$PROJECT_DIR$/interview question 1/interview question 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview question 2/interview question 2.iml" filepath="$PROJECT_DIR$/interview question 2/interview question 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview question 3/interview question 3.iml" filepath="$PROJECT_DIR$/interview question 3/interview question 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview question 3/interview question 4/interview question 4.iml" filepath="$PROJECT_DIR$/interview question 3/interview question 4/interview question 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java practice.iml" filepath="$PROJECT_DIR$/.idea/java practice.iml" />
     </modules>
   </component>
